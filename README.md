@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MohdZaid-06.
 - 👀 I’m interested in Data Science & AI.
-- 🌱 I’m currently learning Data Analysis.
-- 💞️ I’m looking to collaborate on Analysis project.
+- 🌱 I’m currently learning Web Development.
+- 💞️ I’m looking to collaborate on Web Development project.
 - 📫 Contact me: mohdzaid83484@gmail.com
